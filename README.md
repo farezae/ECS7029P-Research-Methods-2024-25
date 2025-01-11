@@ -3,3 +3,7 @@
 This repository provides the code for performing Exploratory Factor Analysis (EFA), including Kaiser-Meyer-Olkin (KMO) and Bartlett's Test of Sphericity.
 
 Link to Questionnaire: https://forms.office.com/e/HSsxXBK6is
+
+This repository also contains: 
+1. Participant Information Sheet
+2. Participant Consent form
